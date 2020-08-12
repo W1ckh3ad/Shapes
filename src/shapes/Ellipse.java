@@ -1,6 +1,4 @@
-
 package shapes;
-
 
 public class Ellipse  extends Shape {
     private double semiHorizontalAxis;
